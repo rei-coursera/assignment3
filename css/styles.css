@@ -1,11 +1,4 @@
 
-/*
-  md - desktop
-  sm - tablet
-  xs - mobile
-*/
-
-
 /* header */
 .navbar-brand {
   font-size: 1.7em;
@@ -31,15 +24,14 @@
 #section{
   margin: 20px;
   background-color: #eeeeee;
+  height: 1000px;
 }
 
 #section h2 {
   padding-top: 20px;
-  text-align: center;
 }
 
 #section p {
-  height: 1000px;
   text-align: justify;
   margin: 30px;
 }
